@@ -1,5 +1,5 @@
 #  About Me:
-Full-stack developer in training with a focus on backend development.<br><br>Working with Java, Spring Boot, REST APIs, MySQL, and Maven while building<br>practical projects and exploring modern web technologies.<br><br>Currently studying Full-Stack Java Development and preparing for my industry internship.
+Fullstack developer in training with a focus on backend development.<br><br>Working with Java, Spring Boot, REST APIs, MySQL, and Maven while building<br>practical projects and exploring modern web technologies.<br><br>Currently studying Full-Stack Java Development and preparing for my industry internship.
 
 
 ## 🌐 Socials:
